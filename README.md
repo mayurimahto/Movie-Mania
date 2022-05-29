@@ -13,6 +13,9 @@ Steps involved in making:
 4. Through API key fetch the data related to movie.
 5. Deploy it to heroku.
 
+### Scrum
+![Scrum]()
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
