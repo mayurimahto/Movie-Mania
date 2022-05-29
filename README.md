@@ -34,7 +34,6 @@ _Below is an example of how you can instruct your audience on installing and set
     ```sh
     pip install requirements.txt
     ```
-    ```
 4. Launch the Project by writing
     ```sh
     streamlit run app.py
