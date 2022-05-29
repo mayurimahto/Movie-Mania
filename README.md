@@ -14,7 +14,7 @@ Steps involved in making:
 5. Deploy it to heroku.
 
 ### Scrum
-![Scrum]()
+![Scrum](Scrum.jpg)
 
 ### Prerequisites
 
