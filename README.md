@@ -24,20 +24,11 @@ This is an example of how to list things you need to use the software and how to
     
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [developers.themoviedb.org/3/getting-started/authentication](https://developers.themoviedb.org/3/getting-started/authentication)
-2. Clone the repo
-    ```sh
-    git clone https://github.com/mayurimahto/Movie-Mania
-    ```
-3. Install pip packages (It is recommended to this in a `venv`)
-    ```sh
-    pip install requirements.txt
-    ```
-4. Launch the Project by writing
-    ```sh
-    streamlit run app.py
+1. Clone this repository in your local system.
+2. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`.
+3. Replace YOUR_API_KEY
+4. Open your terminal/command prompt from your project directory and run the `app.py` file by executing the command `python app.py`.
+5. Go to your browser and type `http://192.168.43.215:8501` in the address bar.
 
 ### Built With
 
