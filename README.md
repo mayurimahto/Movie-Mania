@@ -43,5 +43,5 @@ This project is made with :
 
 ### Future Scope
 - Adding IMDb links of each recommended movie.
-- Displaying cast, genres.
+- Displaying casts, genres.
 - Adding short bios of the casts.
