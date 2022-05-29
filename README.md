@@ -5,6 +5,7 @@ Content Based Movie Recommendation System using cosine similarity.
 
 ### About
 This repository demonstrates content based movie recommendation system through similarities in genres, cast, directors etc.
+
 Steps involved in making:
 1. Manipulate the dataset using pandas in jupyter notebook and eliminating undesirable informations.
 2. Using cosine similarity fetch the similar movies.
