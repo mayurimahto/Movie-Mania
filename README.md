@@ -38,7 +38,6 @@ This is an example of how to list things you need to use the software and how to
 
 This project is made with :
 
--   [Bootstrap 5](https://getbootstrap.com)
 -   [Streamlit](https://streamlit.io/)
 -   [Pandas](https://pandas.pydata.org/)
 -   [Numpy](https://numpy.org/)
